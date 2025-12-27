@@ -3,9 +3,14 @@
 
 対象を定義して、社会上の形成可能な形成地がベースになる時、ツール化可能な言語化
 
+meta情報における情報量
 - 無意識上での形成と自我上での形成範囲
 - 認知情報と設計構造の変更範囲の自覚
+- 定義情報評価定義サイクル構造最適化
+- フィードバックサイクルの評価に対する調整
 
+
+経験単位における情報量
 - 目的とインセンティブ構造(goalOfIncentive)
 - 評価形成(EvaluationFormation)
 - 最適化(Optimization)
@@ -26,8 +31,18 @@
 - 定義情報の短縮(ShortenedDefinitionInformation)
 - 定義情報のツール化(ToolingOfDefinitioninformation)
 - 情報の抽象化(InformationAbstractionTooling)
-- 情報を整理する
+- 情報を整理する(OrganizeInformation)
 - 対象の思考が形状(図)によって概念化される
+- ワーキングメモリ領域と記憶接続(WorkingMemoryAreaMemoryConnections)
+- 機能定義と言語シンボルの定義と調整範囲
+- 注意の範囲とブラックボックスの使い方
+
+
+
+無意識に受けるプロセス選択と評価基準とオペレーションへ関与させることで変更できる範囲の形成レベル
+業務内容の調整
+
+習慣的にできないことが成立する社会設計
 
 
 ex)
@@ -48,7 +63,7 @@ ex)
 習慣的な定義=>(Definition)
 
 認知情報の変化=>goalOfIncentive
-⇩
+
 計画のトリガー
 Definition=>info=>makerMemoryImageDefinition
 Continuity(makerMemoryImageDefinition)
